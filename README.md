@@ -1,2 +1,2 @@
 # spotify
- <img src="image/image3-logo.jpg" alt=""/>
+<a href="https://sadhikaligit.github.io/spotify/">Spotify</a>
